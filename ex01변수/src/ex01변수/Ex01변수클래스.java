@@ -6,6 +6,7 @@ public class Ex01변수클래스 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// push하기
 		//-주석:실행하는 코드가 아닌 메모 작성용
 		//-Java에서의 영역
 		//:중괄호 한쌍 중에서 열리는 중괄호 부터
